@@ -1,0 +1,59 @@
+.outline {
+    background-color: whitesmoke;
+    border: 1px solid black;
+    margin: 120px;
+    padding: 30px;
+    height: 800px;
+}
+
+h1 {
+    font-weight:900;
+    font-style: normal;
+    font-size: xx-large;
+    text-align: center;
+}
+
+img {
+    width: 180px;
+    height: 180px;
+}
+
+.GitHub1 {
+    height: 180px;
+    background-color:#4CC7DC;
+    display: flex;
+    justify-content: space-around;
+    padding: 30px;
+}
+
+.GitHub2 {
+    height: 180px;
+    background-color: #D5B1C5;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 20px auto;
+    padding: 30px;
+}
+
+.GitHub3 {
+    height: 180px;
+    background-color: #FCFCFF;
+    display: flex;
+    justify-content: space-around;
+}
+
+.link {
+    display: flex;
+    gap: 5px;
+    justify-content: center;
+}
+
+.images_from {
+    font-weight: 600;
+}
+
+.GitHub_Octodex {
+    text-decoration: underline;
+    color: #B6DAFF;
+    font-weight: 600;
+}
